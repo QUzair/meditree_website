@@ -4214,3 +4214,22 @@ blockquote span {
     color: #fff;
     opacity: .8
 }
+
+.logo-text-dark{
+    font-size: 24px;
+    font-weight: bold;
+    color: #40182e;
+    margin: 0px !important;
+}
+.logo-text-dark span{
+    color: #f2ada7;
+    font-weight: 100;
+    margin: 0px !important;
+}
+
+.logo-text-light{
+    font-size: 24px;
+    font-weight: bold;
+    color:white;
+    margin: 0px !important;
+}
